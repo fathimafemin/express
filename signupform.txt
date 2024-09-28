@@ -1,0 +1,13 @@
+{
+  "Name": "femin",
+  "email": "femin@gmail.com",
+  "password": "femin"
+}{
+  "Name": "femin",
+  "email": "femin@gmail.com",
+  "password": "femin"
+}{
+  "Name": "fathima",
+  "email": "fathima@gmail.com",
+  "password": "fath"
+}
